@@ -17,7 +17,7 @@ help = "Contains the Welotec PK to enable signature database updates and binary 
 
 [[PK.files]]
 path = "PreSignedObjects/PK/Certificate/PK_RSAEC_MK3_2026.der"
-sha1 = 0x47ddd5ebb39020dd6c45940f77ed8acf70544780
+sha1 = 0x2d9db95c54a655e97b33a8eccacd042d9c7ff17f
 signature_owner = "85fcbc9b-4070-48ee-8851-5c31fb558f05"
 description = "Platform Key (owner) who may authorize changes to the KEK Variable"
 
